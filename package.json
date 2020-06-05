@@ -43,6 +43,6 @@
     "tape": "^4.4.0"
   },
   "dependencies": {
-    "snappy": "^4.1.2"
+    "snappy": "^6.3.4"
   }
 }
